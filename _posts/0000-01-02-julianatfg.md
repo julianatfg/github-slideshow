@@ -2,5 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Ground control to Major Tom
+Ground control to Major Tom
+Take your protein pill and put your helmet on
 Use the left arrow to go back!
